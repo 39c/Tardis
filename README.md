@@ -1,4 +1,4 @@
 Tardis
 ======
 
-Windows clone of Apple PhotoBooth
+Nothing interesting here yet...
